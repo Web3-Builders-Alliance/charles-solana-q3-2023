@@ -9,3 +9,5 @@
 - spl_mint.ts
    - use getOrCreateAssociateTokenAccount to create a token account using your wallet and mint id you logged 
    - use mintTo to mint token yourself 
+
+   
